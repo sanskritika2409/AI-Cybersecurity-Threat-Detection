@@ -41,3 +41,4 @@ import joblib
 
 joblib.dump(model, "models/cyber_model.pkl")
 print("💾 Model saved successfully!")
+print(data.head())

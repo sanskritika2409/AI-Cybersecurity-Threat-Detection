@@ -27,10 +27,12 @@ streamlit run app.py
 
 Add your images here:
 
-Dataset preview
-Dashboard
-Confusion matrix
-Prediction results
+[Dataset](images/dataset1.png)
+[Dataset](images/dataset2.png)
+[Dashboard](images/dashboard1.png)  
+[Dashboard](images/dashboard1.png)
+[Prediction](images/datasetprediction.png)
+[results](images/datasetresult.png)
 🚀 Outcome
 
 Successfully built an AI system that detects cyber threats using ML techniques.
